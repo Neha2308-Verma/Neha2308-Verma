@@ -1,7 +1,9 @@
+![banner](https://github.com/Neha2308-Verma/Neha2308-Verma/blob/e2b6b7960dca476589e458a207f18db5f6b014ec/1.png)
 <h1 align="center">Hi 👋, I'm Neha Verma</h1>
 <h3 align="center">I’m a passionate frontend developer aspires to build more dynamic and interactive web applications.</h3>
 
-<img align="right" alt="image" width="400" src="https://dribbble.com/shots/5554208-Floating-Working-Girl/attachments/10931478?mode=media"
+<img align="right" alt="image" width="300" src="https://github.com/user-attachments/assets/fb44a1a6-aa3a-495f-a3f0-5be575987113">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha2308-verma&label=Profile%20views&color=0e75b6&style=flat" alt="neha2308-verma" /> </p>
 
